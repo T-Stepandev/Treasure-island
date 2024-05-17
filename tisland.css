@@ -1,0 +1,22 @@
+header{
+    background-color: black;
+    color: #ffffff;
+    font-family: "Comfortaa", sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    padding: 0 20px;
+}
+img{
+    width: 69px;
+    height: 69px;
+    border-radius: 50%;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+ul li{
+    padding: 0 10px;
+}
